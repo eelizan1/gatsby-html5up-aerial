@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Aerial', // <title>
+  siteTitle: 'Enrico Elizan', // <title>
   manifestName: 'Aerial',
   manifestShortName: 'Portfolio', // max 12 characters
   manifestStartUrl: '/',
@@ -16,12 +16,22 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/app-generator/gatsby-html5up-aerial',
+      url: 'https://github.com/eelizan1',
     },
     {
-      icon: 'fa-twitter',
+      icon: 'fa-linkedin',
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/enrico-elizan/',
+    },
+    {
+      icon: 'fa-instagram',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/e.elizanjr/',
+    },
+    {
+      icon: 'fa-envelope',
       name: 'Twitter',
-      url: 'https://twitter.com/webappseed',
-    }
+      url: 'mailto:eelizanjr@outlook.com',
+    },
   ],
 };
